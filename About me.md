@@ -38,5 +38,5 @@ Feel free to explore my repositories and see the work I’ve done!
 ---
 
 ### Connect with Me 📧
-You can reach out to me via [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/clinton-idahosa-ab3393188/) or email me at [idahosaclinton@gmail.com].
+You can reach out to me via [LinkedIn](https://www.linkedin.com/in/clinton-idahosa-ab3393188/) or email me at [idahosaclinton@gmail.com].
 
