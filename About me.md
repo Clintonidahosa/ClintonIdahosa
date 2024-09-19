@@ -1,6 +1,6 @@
 # About Me
 
-[SAM-6813-1.jpg](https://postimg.cc/fkLfVmmv)
+[SAM-6813-1.jpg](https://i.postimg.cc/Pfb3FMq0/SAM-6813-1.jpg)
 
 ## Hi, I'm Dr. Clinton Idahosa👋
 
