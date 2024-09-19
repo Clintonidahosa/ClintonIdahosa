@@ -18,7 +18,7 @@ I have developed strong analytical skills and hands-on experience in various too
   - **Excel**: Advanced functions, PivotTables, data visualization
   - **Power BI & Tableau**: Interactive dashboards and reports
   
-![Skills Image](https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Skills Image](https://i.postimg.cc/NM64SgQR/pexels-photo-177598.jpg)
 
 ---
 
