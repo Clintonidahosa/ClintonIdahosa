@@ -1,6 +1,6 @@
 # About Me
 
-![SAM-6813-1.jpg](https://learn.g2.com/hs-fs/hubfs/G2CM_FI953_Learn_Article_Images_%5Bdata_analytics_in_healthcare%5D_V1a.png?width=1035&name=G2CM_FI953_Learn_Article_Images_%5Bdata_analytics_in_healthcare%5D_V1a.png)
+![SAM-6813-1.jpg](https://pixelplex.io/wp-content/uploads/2023/12/big-data-analytics-healthcare-examples-main.jpg)
 
 ## Hi, I'm Dr. Clinton Idahosa👋
 
