@@ -1,6 +1,6 @@
 # About Me
 
-![Data Science Doctor](https://images.pexels.com/photos/6366444/pexels-photo-6366444.jpeg?auto=compress&cs=tinysrgb&w=600)
+![Data Science Doctor](https://imgur.com/xAGaTLw)
 
 ## Hi, I'm Dr. Clinton Idahosa👋
 
