@@ -1,6 +1,6 @@
 # About Me
 
-![Data Science Doctor]([https://your-image-link.com](https://images.pexels.com/photos/6366444/pexels-photo-6366444.jpeg?auto=compress&cs=tinysrgb&w=600))
+![Data Science Doctor](https://images.pexels.com/photos/6366444/pexels-photo-6366444.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 ## Hi, I'm Dr. Clinton Idahosa👋
 
@@ -18,7 +18,7 @@ I have developed strong analytical skills and hands-on experience in various too
   - **Excel**: Advanced functions, PivotTables, data visualization
   - **Power BI & Tableau**: Interactive dashboards and reports
   
-![Skills Image]([https://your-skills-image-link.com](https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2))
+![Skills Image](https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 ---
 
@@ -38,5 +38,5 @@ Feel free to explore my repositories and see the work I’ve done!
 ---
 
 ### Connect with Me 📧
-You can reach out to me via [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/clinton-idahosa-ab3393188/)) or email me at [idahosaclinton@gmail.com].
+You can reach out to me via [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/clinton-idahosa-ab3393188/) or email me at [idahosaclinton@gmail.com].
 
