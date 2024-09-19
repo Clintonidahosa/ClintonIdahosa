@@ -17,8 +17,6 @@ I have developed strong analytical skills and hands-on experience in various too
   - **Python**: Data science and machine learning
   - **Excel**: Advanced functions, PivotTables, data visualization
   - **Power BI & Tableau**: Interactive dashboards and reports
-  
-![Skills Image](https://i.postimg.cc/NM64SgQR/pexels-photo-177598.jpg)
 
 ---
 
