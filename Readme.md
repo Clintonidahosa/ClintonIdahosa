@@ -22,9 +22,9 @@ I have developed strong analytical skills and hands-on experience in various too
 
 ### Certifications 🎓
 - ## Certifications
-
-- **Google Data Analytics Certificate**  
-  ![View Certificate](https://www.credly.com/badges/131b6642-8d26-46f5-b761-5dcad25f3ef1/public_url)
+ 
+- **[Google Data Analytics Certificate](https://www.credly.com/badges/131b6642-8d26-46f5-b761-5dcad25f3ef1/public_url)** 
+- **Bioinformatics by Genomac Institute**   
 - **HackBio Internship For Life Scientists**
 - **Data Science in R for Life Scientists by Hackbio**
 
