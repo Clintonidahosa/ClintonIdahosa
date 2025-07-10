@@ -4,8 +4,8 @@
 
 ## Hi, I'm Dr. Clinton Idahosa👋
 
-I'm a medical doctor with a passion for **data analysis**. Combining my medical background with my love for data-driven insights, I aim to make a real impact on healthcare through analytics. 
-I have developed strong analytical skills and hands-on experience in various tools and languages used in data analysis.
+I'm a medical doctor and **data scientist**. Combining my medical background with my love for data-driven insights, I aim to make a real impact on healthcare through statistical modelling, predictive analytics and machine learning. 
+I have developed strong analytical skills and hands-on experience in various tools and languages used in data analysis and machine learning.
 
 ---
 
@@ -27,13 +27,15 @@ I have developed strong analytical skills and hands-on experience in various too
 - **Bioinformatics by Genomac Institute**   
 - **HackBio Internship For Life Scientists**
 - **Data Science in R for Life Scientists by Hackbio**
+- **AWS Educate Machine Learning Foundations**
+- **Introducing Generative AI with AWS by Udacity**
 
 I’m constantly learning and growing, always seeking out opportunities to expand my skillset and apply it to real-world problems.
 
 ---
 
 ### My Projects 📝
-I’ve worked on several data analysis projects, and I’m currently working on more
+I’ve worked on several projects, and I’m currently working on more
 Feel free to explore my repositories and see the work I’ve done!
 
 ---
